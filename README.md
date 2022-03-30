@@ -6,4 +6,4 @@ Le code est adapté de celui sourcé à partir du tuto suivant : https://www.you
 
 Il est possible de modifier l'emplacement de destination du fichier en indiquant le chemin de données en paramètre de .download() ligne 26 du fichier YoutubeVideoConverter.py.
 
-J'upload également dans le repo les codes sources, intitulés YouTubePythonDemo.py et YoutubeDownloadPython.py ainsi que les modules à importer nécessaires au bon fonctionnement du code.
+J'upload également dans le repo les fichiers des codes sources, que j'ai intitulés YouTubePythonDemo.py et YoutubeDownloadPython.py.
