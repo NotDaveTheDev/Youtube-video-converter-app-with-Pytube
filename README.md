@@ -1,9 +1,9 @@
 # Youtube-video-converter-app-with-Pytube
 
-Un petit convertisseur de vidéo Youtube en audio comme on en voit partout.
+A small Youtube video to audio converter like you see everywhere.
 
-Le code est adapté de celui sourcé à partir du tuto suivant : https://www.youtube.com/watch?v=NtzDjNhPZgU. Il s'exécute à partir de PowerShell.
+The code is adapted from the one sourced here: https://www.youtube.com/watch?v=NtzDjNhPZgU. It runs from PowerShell.
 
-Il est possible de modifier l'emplacement de destination du fichier en indiquant le chemin de données en paramètre de .download() ligne 26 du fichier YoutubeVideoConverter.py.
+It is possible to change the destination location of the file by indicating the path as a parameter to .download() line 26 of the YoutubeVideoConverter.py file.
 
-J'upload également dans le repo les fichiers des codes sources, que j'ai intitulés YouTubePythonDemo.py et YoutubeDownloadPython.py.
+I also uploaded in the repo the source code files, which I named YouTubePythonDemo.py and YoutubeDownloadPython.py.
